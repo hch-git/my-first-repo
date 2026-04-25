@@ -5,12 +5,9 @@
 这是我在两周 Git 实践中创建的第一个仓库，用于联系分支管理，冲突解决，Markdown 文档编写等基础技能
 
 ## 功能特性
-- [x]基础 Git 分支创建与合并
-- [x]规范使用 README 文档编写
-- [x]冲突解决流程演练
-- [x]使用 `.gitignore` 忽略不必要的文件
-
----
+- 基础 Git 分支创建与合并
+- 规范使用 README 文档编写
+- 冲突解决流程演练
 
 ## 安装步骤
 1.  克隆仓库
@@ -37,9 +34,6 @@ class Program
        console.WriteLine("Hello VR & Git!")
    }
 }
-
-![VR 开发场景](https://picsum.photos/seed/vr/800/300)
-
 
 ## 版本历史
 | 版本号   | 发布日期       | 主要变更内容                             |
